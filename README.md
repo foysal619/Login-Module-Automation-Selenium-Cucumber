@@ -3,11 +3,11 @@ This repository contains an automation project focused on the Login functionalit
 
 ## Assigned Work Scenario
 - Website URL: https://www.saucedemo.com
-- Login with Invalid Credentials 
 - Login with Valid Credentials
+- Assert the Next Page after Login Successful
+- Login with Invalid Credentials
 
 ## Technology used
-
 - Selenium Tools
 - Cucumber BDD Tool
 - Java Language
@@ -16,7 +16,6 @@ This repository contains an automation project focused on the Login functionalit
 - IntelliJ IDE
 
 ## How to run this project
-
 - Clone this project
 - hit the following command: ```gradle clean test```
 
