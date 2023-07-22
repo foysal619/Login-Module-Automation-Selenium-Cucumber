@@ -13,7 +13,7 @@ This repository contains an automation project focused on the Login functionalit
 - Java Language
 - Junit Framework
 - Gradle Build System
-- Intellij IDEA
+- Intellij IDE
 
 ## How to run this project
 
