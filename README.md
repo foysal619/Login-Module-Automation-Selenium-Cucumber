@@ -1,8 +1,7 @@
 # Login-Module-Automation-Selenium-Cucumber
-In this repository contains an automation project for the Login functionality, developed using Selenium and Cucumber. The project allows users to automate the login process of a web application, using various test cases and scenarios. The test cases are written in a behavior-driven development style, making it easier for stakeholders to understand.
+This repository contains an automation project focused on the Login functionality, skillfully crafted with Selenium and Cucumber. The project empowers users to effortlessly automate the login process of a web application, encompassing a diverse range of test cases and scenarios. These test cases are thoughtfully scripted in a behavior-driven development style, facilitating comprehension for all stakeholders involved.
 
-## Project Scenerio
-
+## Assigned Work Scenerio
 - site URL: https://www.saucedemo.com
 - Login with Invalid Credentials 
 - Login with Valid Credentials
